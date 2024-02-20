@@ -1,19 +1,22 @@
 # kandi_paivakirja
 
 ## 1. Perustiedot
-- **Nimi ja opiskelijanumero:** [Kirjoita nimesi ja opiskelijanumerosi tähän]
+- **Nimi ja opiskelijanumero:** [Tarmo Lindfors 016251539]
 - **Ohjaaja ja valvoja:** [Kirjoita ohjaajasi ja valvojasi nimi tähän]
-- **Aloituspäivämäärä (1. ryhmätapaaminen):** [Kirjoita aloituspäivämäärä tähän]
-- **Tutkielman kieli:** [Kirjoita tutkielman kieli tähän]
-- **Koulusivistyskieli:** [Kirjoita koulusivistyskieli tähän]
+- **Aloituspäivämäärä (1. ryhmätapaaminen):** [17.1.2024]
+- **Tutkielman kieli:** [suomi]
+- **Koulusivistyskieli:** [suomi]
 
 ## 2. Suoritukset
-- Essee, kieli: suunnitelma / toteutus
-- Tutkielmaluonnos, kieli: suunnitelma / toteutus
-- Tutkielma, kieli: suunnitelma / toteutus
-- Kypsyysnäyte, kieli: suunnitelma / toteutus
-- Esitelmä, kieli: suunnitelma / toteutus
-- (Lyhennelmä, kieli: suunnitelma / toteutus) *(Tämä tehdään yleensä vain jos tutkielman kieli ei ole sama kuin koulusivistyskieli.)*
+- Essee, suomi:
+   - Suunnitelma: Aiheena generatiivisen tekoälyn myrkytys artikkelin "Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models". Käydään läpi hyökkäystyylejä Stable Diffusion mallia vastaan.
+   - Toteutus: Esseen kirjoittaminen osoittautui yllättävän hankalaksi. Lopulta kirjoitin esseen kahdesti. Ensimmäisellä kerralla kirjoitin esseetä useamman päivän ajan ja tutustuin aihepiiriin, joten rakenne oli hajanainen. Tein uuden version yhtenä päivänä, ja sen rakenne oli aika hyvä, joskin kielioppivirheitä jäi. Mielestäni onnistuin hyvin sisällyttämään esseeseen artikkelin pää piirteet, joskin olisi ollut siinä paljon lisää kerrottavaa.
+- Tutkielmaluonnos, suomi:
+   - Suunnitelma: Tavoitteena käsitellä neuroverkkojen perusteet, jonka jälkeen esitellä joitakin kuvageneratiivisen neuroverkon toteutusmahdollisuuksia. Lisäksi tarkoitus esitellä Stable Diffusion sen avoimen lähdekoodin takia, ja sen mukana tuoman helpon hienosäädön. Hienosäädöstä voisi kertoa eri tekniikoita, ja joitakin ominaisuuksia, jotka yhdistävät niitä. Kaikki tekniikat pohjaa Stable Diffusioniin ja sitä kautta diffuusio malleihin. Lopuksi jos jää tilaa voi käsitellä hienosäädön väärinkäytön mahdollisuuksia.
+   - Toteutus: 
+- Tutkielma, suomi: suomi / suomi
+- Kypsyysnäyte, suomi: suunnitelma / toteutus
+- Esitelmä, suomi: suunnitelma / toteutus
 - Vertaisarviointi, suullinen: suunnitelma / toteutus
 - Vertaisarviointi, kirjallinen: suunnitelma / toteutus
 - Työsuunnitelma: 1. versio / 2. versio / ...
@@ -23,12 +26,11 @@
 
 | Viikko | edistys |
 |--------|-----------|
-| Viikko 2 | [Kirjoita suunnitelmasi viikolle 2 tähän] |
-| Viikko 3 | [Kirjoita suunnitelmasi viikolle 3 tähän] |
-| Viikko 4 | [Kirjoita suunnitelmasi viikolle 4 tähän] |
-| Viikko 5 | [Kirjoita suunnitelmasi viikolle 5 tähän] |
-| Viikko 6 | [Kirjoita suunnitelmasi viikolle 6 tähän] |
-| Viikko 7 | [Kirjoita suunnitelmasi viikolle 7 tähän] |
+| Viikko 3 | kandityöhön tutustuminen. Ideana tehdä jotakin datatieteeseen liittyvää |
+| Viikko 4 | Esimerkkiaiheisiin tutustuminen. Löysin keskustelupalstalta mielenkiintoisen artikkelin kuvien suojaamisesta tekoälyltä |
+| Viikko 5 | Valitsin esseen aiheeksi Nightshade artikkelin pohjalta neuroverkkojen "myrkyttämisen" opetusdatan avulla. Aihe oli yllättävän hankala ja viime esseestä runsaasti aikaa |
+| Viikko 6 | Tutustumista aihepiirin artikkeleihin. Kaikki artikkelit melko uusia aiheen tuoreuden takia ja melkein kaikki arxivissa. Noin 30 artikkelia kerättynä säilöön |
+| Viikko 7 | Käytännön tason tutustumista miten stable diffusionia operoidaan, ja sen käyttöliittymien testailua. Lisäksi treenasin omasta naamasta LoRA-mallin Kohya_ss ohjelmalla. |
 | Viikko 8 | [Kirjoita suunnitelmasi viikolle 8 tähän] |
 | Viikko 9 | [Kirjoita suunnitelmasi viikolle 9 tähän] |
 | Viikko 10 | [Kirjoita suunnitelmasi viikolle 10 tähän] |
