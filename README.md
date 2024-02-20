@@ -21,7 +21,7 @@
 ## 3. Aikataulutus
 
 
-| Viikko | Toiminnot |
+| Viikko | edistys |
 |--------|-----------|
 | Viikko 2 | [Kirjoita suunnitelmasi viikolle 2 tähän] |
 | Viikko 3 | [Kirjoita suunnitelmasi viikolle 3 tähän] |
