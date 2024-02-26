@@ -10,7 +10,7 @@
 ## 2. Suoritukset
 - Essee, suomi:
    - Suunnitelma: Aiheena generatiivisen tekoälyn myrkytys artikkelin "Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models". Käydään läpi hyökkäystyylejä Stable Diffusion mallia vastaan.
-   - Toteutus: Esseen kirjoittaminen osoittautui yllättävän hankalaksi. Lopulta kirjoitin esseen kahdesti. Ensimmäisellä kerralla kirjoitin esseetä useamman päivän ajan ja tutustuin aihepiiriin, joten rakenne oli hajanainen. Tein uuden version yhtenä päivänä, ja sen rakenne oli aika hyvä, joskin kielioppivirheitä jäi. Mielestäni onnistuin hyvin sisällyttämään esseeseen artikkelin pää piirteet, joskin olisi ollut siinä paljon lisää kerrottavaa.
+   - Toteutus: Esseen kirjoittaminen osoittautui yllättävän hankalaksi. Lopulta kirjoitin esseen kahdesti. Ensimmäisellä kerralla kirjoitin esseetä useamman päivän ajan ja tutustuin aihepiiriin, joten rakenne oli hajanainen. Tein uuden version yhtenä päivänä, ja sen rakenne oli aika hyvä, joskin kielioppivirheitä jäi. Mielestäni onnistuin hyvin sisällyttämään esseeseen artikkelin pääpiirteet, joskin olisi ollut siinä paljon lisää kerrottavaa.
 - Tutkielmaluonnos, suomi:
    - Suunnitelma: Tavoitteena käsitellä neuroverkkojen perusteet, jonka jälkeen esitellä joitakin kuvageneratiivisen neuroverkon toteutusmahdollisuuksia. Lisäksi tarkoitus esitellä Stable Diffusion sen avoimen lähdekoodin takia, ja sen mukana tuoman helpon hienosäädön. Hienosäädöstä voisi kertoa eri tekniikoita, ja joitakin ominaisuuksia, jotka yhdistävät niitä. Kaikki tekniikat pohjaa Stable Diffusioniin ja sitä kautta diffuusio malleihin. Lopuksi jos jää tilaa voi käsitellä hienosäädön väärinkäytön mahdollisuuksia.
    - Toteutus: Hyvän valmistautumisen ja käytännön kokeilun ansiosta kirjoittaminen sujui aika hyvin. Koska aihepiiri oli lopulta melko laaja, syntyi haasteeksi tarpeeksi syvällisten osoiden tuottaminen. Kaikki asiat sain käytyä läpi yleisellä tasolla. Myöskään overleafin käyttö ei tuottanut haasteita hyvän pohjan ansiosta.
@@ -34,8 +34,8 @@
 | Viikko 6 | Tutustumista aihepiirin artikkeleihin. Kaikki artikkelit melko uusia aiheen tuoreuden takia ja melkein kaikki arxivissa. Noin 30 artikkelia kerättynä säilöön |
 | Viikko 7 | Käytännön tason tutustumista miten stable diffusionia operoidaan, ja sen käyttöliittymien testailua. Lisäksi treenasin omasta naamasta LoRA-mallin Kohya_ss ohjelmalla. |
 | Viikko 8 | Aineen kirjoittaminen n. 10 sivua. Kirjoittaminen sujui hyvin, mutta tekstin laadussa parannettavaa |
-| Viikko 9 | [Kirjoita suunnitelmasi viikolle 9 tähän] |
-| Viikko 10 | [Kirjoita suunnitelmasi viikolle 10 tähän] |
+| Viikko 9 | Tekstin hiomista sisällöllisesti ja kielellisesti. Kuvien ja graafien lisäys. |
+| Viikko 10 | Aineen viimeistely |
 | Viikko 11 | [Kirjoita suunnitelmasi viikolle 11 tähän] |
 | Viikko 12 | [Kirjoita suunnitelmasi viikolle 12 tähän] |
 | Viikko 13 | [Kirjoita suunnitelmasi viikolle 13 tähän] |
