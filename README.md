@@ -1,8 +1,8 @@
 # kandi_paivakirja
 
 ## 1. Perustiedot
-- **Nimi ja opiskelijanumero:** [Tarmo Lindfors 016251539]
-- **Ohjaaja ja valvoja:** [Kirjoita ohjaajasi ja valvojasi nimi tähän]
+- **Nimi ja opiskelijanumero:** [Tarmo Lindfors 016539251]
+- **Ohjaaja ja valvoja:** [Juha Kärkkäinen ja Lea Kutvonen]
 - **Aloituspäivämäärä (1. ryhmätapaaminen):** [17.1.2024]
 - **Tutkielman kieli:** [suomi]
 - **Koulusivistyskieli:** [suomi]
@@ -15,10 +15,12 @@
    - Suunnitelma: Tavoitteena käsitellä neuroverkkojen perusteet, jonka jälkeen esitellä joitakin kuvageneratiivisen neuroverkon toteutusmahdollisuuksia. Lisäksi tarkoitus esitellä Stable Diffusion sen avoimen lähdekoodin takia, ja sen mukana tuoman helpon hienosäädön. Hienosäädöstä voisi kertoa eri tekniikoita, ja joitakin ominaisuuksia, jotka yhdistävät niitä. Kaikki tekniikat pohjaa Stable Diffusioniin ja sitä kautta diffuusio malleihin. Lopuksi jos jää tilaa voi käsitellä hienosäädön väärinkäytön mahdollisuuksia.
    - Toteutus: Hyvän valmistautumisen ja käytännön kokeilun ansiosta kirjoittaminen sujui aika hyvin. Koska aihepiiri oli lopulta melko laaja, syntyi haasteeksi tarpeeksi syvällisten osoiden tuottaminen. Kaikki asiat sain käytyä läpi yleisellä tasolla. Myöskään overleafin käyttö ei tuottanut haasteita hyvän pohjan ansiosta.
 - Tutkielma, suomi:
-  - Suunnitelma: Tarkoituksena jatkaa siitä, mihin luonnos on jäänyt, ja syventyä kuvageneraation haittavaikutuksiin yhteiskunnallisella ja yksilöllisellä tasolla. Yhteiskunnallisella tasolla mm. disinformaation uhkat vääristellyillä kuvilla, ja siltä suojautuminen, esim kuvien tunnistaminen automatisoidusti tekoälyn tuotoksiksi. Yksilöllisellä tasolla identiteetti varkaus ja tyyli varkaus, joihin liitty glaze artikkeli ja nightshade artikkeli. Voi myös käydä läpi neuroverkkojen omia puolustautumis keinoja.
+  - Suunnitelma: Tarkoituksena jatkaa siitä, mihin luonnos on jäänyt, ja syventyä kuvageneraation haittavaikutuksiin yhteiskunnallisella ja yksilöllisellä tasolla. Yhteiskunnallisella tasolla mm. disinformaation uhkat vääristellyillä kuvilla, ja siltä suojautuminen, esim kuvien tunnistaminen automatisoidusti tekoälyn tuotoksiksi. Yksilöllisellä tasolla identiteetti varkaus ja tyyli varkaus, joihin liitty glaze artikkeli ja nightshade artikkeli. Voi myös käydä läpi neuroverkkojen omia puolustautumis keinoja, kuten mallien kouluttaminen välttämään haitallisten kuvien tuottamista.
   - Toteutus:
 - Kypsyysnäyte, suomi: suunnitelma / toteutus
-- Esitelmä, suomi: suunnitelma / toteutus
+- Esitelmä, suomi:
+     - Suunnitelma: tarkoituksena keskittyä esitelmässä diffuusiomallien hienosäätöön ja jättää mallien läpikäynti korkealle tasolle.
+     - Toteutus: powerpoint esitelmä
 - Vertaisarviointi, suullinen: suunnitelma / toteutus
 - Vertaisarviointi, kirjallinen: suunnitelma / toteutus
 - Työsuunnitelma: 1. versio / 2. versio / ...
@@ -36,10 +38,10 @@
 | Viikko 8 | Aineen kirjoittaminen n. 10 sivua. Kirjoittaminen sujui hyvin, mutta tekstin laadussa parannettavaa |
 | Viikko 9 | Tekstin hiomista sisällöllisesti ja kielellisesti. Kuvien ja graafien lisäys. |
 | Viikko 10 | Aineen viimeistely |
-| Viikko 11 | [Kirjoita suunnitelmasi viikolle 11 tähän] |
-| Viikko 12 | [Kirjoita suunnitelmasi viikolle 12 tähän] |
-| Viikko 13 | [Kirjoita suunnitelmasi viikolle 13 tähän] |
-| Viikko 14 | [Kirjoita suunnitelmasi viikolle 14 tähän] |
+| Viikko 11 | Aineen laajennus kandiversion pohjaan. Lisätään väärinkäyttö ja suojautuminen |
+| Viikko 12 | Väliviikko (koe) |
+| Viikko 13 | Kandin kokonaisuus valmiiksi. Rakenteen siistiminen ja lähteiden päivitys |
+| Viikko 14 | Esitelmän powerpointin teko ja suunnittelun. Kandin faktatarkastus |
 | Viikko 15 | [Kirjoita suunnitelmasi viikolle 15 tähän] |
 | Viikko 16 | [Kirjoita suunnitelmasi viikolle 16 tähän] |
 | Viikko 17 | [Kirjoita suunnitelmasi viikolle 17 tähän] |
