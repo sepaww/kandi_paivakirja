@@ -17,14 +17,18 @@
 - Tutkielma, suomi:
   - Suunnitelma: Tarkoituksena jatkaa siitä, mihin luonnos on jäänyt, ja syventyä kuvageneraation haittavaikutuksiin yhteiskunnallisella ja yksilöllisellä tasolla. Yhteiskunnallisella tasolla mm. disinformaation uhkat vääristellyillä kuvilla, ja siltä suojautuminen, esim kuvien tunnistaminen automatisoidusti tekoälyn tuotoksiksi. Yksilöllisellä tasolla identiteetti varkaus ja tyyli varkaus, joihin liitty glaze artikkeli ja nightshade artikkeli. Voi myös käydä läpi neuroverkkojen omia puolustautumis keinoja, kuten mallien kouluttaminen välttämään haitallisten kuvien tuottamista.
   - Toteutus:
-- Kypsyysnäyte, suomi: suunnitelma / toteutus
+- Kypsyysnäyte, suomi:
+     - Suunnitelma: Omien aiheiden kertaaminen kypsyysnäytettä varten
+     - Toteutus: Noin kahden sivun mittainen tiivistelmä diffuusiomallien hienosäädöstä.
 - Esitelmä, suomi:
      - Suunnitelma: tarkoituksena keskittyä esitelmässä diffuusiomallien hienosäätöön ja jättää mallien läpikäynti korkealle tasolle.
      - Toteutus: powerpoint esitelmä
-- Vertaisarviointi, suullinen: suunnitelma / toteutus
-- Vertaisarviointi, kirjallinen: suunnitelma / toteutus
-- Työsuunnitelma: 1. versio / 2. versio / ...
-
+- Vertaisarviointi, suullinen:
+   -  Suunnitelma: Perehtyminen arvioitavaan kandiluonnokseen. Tarkoituksena tehdä bullet point kohdat kommenteista
+   -   toteutus: Melko vapaamuotoinen palaute. Lähinnä keskityin muutamaan kohtaan, jotka itsellä pomppasivat silmiin.
+- Vertaisarviointi, kirjallinen:
+   -  Suunnitelma: Perehtyminen arvioitavaan kandiluonnokseen. Tarkoituksena tehdä word dokumentti palautteesta
+   - Toteutus: Noin sivun pituinen palaute, jossa keskityin joihinkin kohtiin, joita en itse täysin ymmärtänyt ja mitä jäin kaipaamaan.
 ## 3. Aikataulutus
 
 
@@ -42,9 +46,9 @@
 | Viikko 12 | Väliviikko (koe) |
 | Viikko 13 | Kandin kokonaisuus valmiiksi. Rakenteen siistiminen ja lähteiden päivitys |
 | Viikko 14 | Esitelmän powerpointin teko ja suunnittelun. Kandin faktatarkastus |
-| Viikko 15 | [Kirjoita suunnitelmasi viikolle 15 tähän] |
-| Viikko 16 | [Kirjoita suunnitelmasi viikolle 16 tähän] |
-| Viikko 17 | [Kirjoita suunnitelmasi viikolle 17 tähän] |
-| Viikko 18 | [Kirjoita suunnitelmasi viikolle 18 tähän] |
-| Viikko 19 | [Kirjoita suunnitelmasi viikolle 19 tähän] |
-| Viikko 20 | [Kirjoita suunnitelmasi viikolle 20 tähän] |
+| Viikko 15 | Väliviikko |
+| Viikko 16 | Esitelmän viimeistely ja esityksen pitäminen |
+| Viikko 17 | Kandin viimeistely ja kielioppivirheiden metsästys |
+| Viikko 18 | Palautus/Viimeistely |
+| Viikko 19 | Palautus/Viimeistely |
+| Viikko 20 | Palautus/Viimeistely |
