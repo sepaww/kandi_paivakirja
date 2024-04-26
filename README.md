@@ -30,7 +30,7 @@
    -  Suunnitelma: Perehtyminen arvioitavaan kandiluonnokseen. Tarkoituksena tehdä word dokumentti palautteesta (12.3)
    - Toteutus: Noin sivun pituinen palaute, jossa keskityin joihinkin kohtiin, joita en itse täysin ymmärtänyt ja mitä jäin kaipaamaan. (15.3)
  
-## 3. Työsuunnitelmat kandi
+## 3. Työsuunnitelmat
 
 - Versio 1.
    - Tarkoituksena tutustua ja selvittää eri hyökkäys keinoja generatiivisia tekoälyjä vastaan. Laajennetaan nightshade artikkelin käsittelemiä aiheita ja etsitään myrkytys hyökkäyksen torjunnan keinoja. Laajennetaan myös myrkytys hyökkäyksiä tekstiä generoiviin malleihin ja tutustutaan niidenkin torjuntaan.Käydään yleisellä tasolla erilaisia lähestymistapoja generatiivisten verkkojen kouluttamiseen.
