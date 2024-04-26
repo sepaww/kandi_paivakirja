@@ -41,6 +41,9 @@
 
 ## 4. Aikataulutus
 
+- Alkuperäisenä ajatuksena on varata kandille noin 3-4 päivää viikosta ja loput mulle käynnissä oleville kursseille. Yleisesti tavoitteena on hieman keulia aikataulussa, ja yrittää saada melko valmiiksi jo maaliskuu/huhtikuu välissä. Tiedonhankintaan varaan noin 2 viikkoa, ja riippuen kehityksestä tiedonhaku jatkuu myös kirjoitusviikkoina. Itse kandin etenemistä on vaikea arvioida etukäteen, mutta aikaa uskoisin olevan loppupäässä jos kirjoitus venähtää.
+
+- Lopullinen aikataulutus:
 
 | Viikko | edistys |
 |--------|-----------|
