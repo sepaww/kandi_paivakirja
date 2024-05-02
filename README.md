@@ -1,4 +1,4 @@
-# kandi_paivakirja
+# kandi_työsuunnitelma
 
 ## 1. Perustiedot
 - **Nimi ja opiskelijanumero:** [Tarmo Lindfors 016539251]
