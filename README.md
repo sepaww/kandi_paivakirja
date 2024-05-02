@@ -65,3 +65,9 @@
 | Viikko 18 | Palautus/Viimeistely |
 | Viikko 19 | Palautus/Viimeistely |
 | Viikko 20 | Palautus/Viimeistely |
+
+## Tekoälynkäyttö
+- Latex koodin generointi
+- Latex kirjastojen suosittelu tarpeisiin
+- Kuvien generointi
+- 
