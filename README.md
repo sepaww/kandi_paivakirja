@@ -70,4 +70,4 @@
 - Latex koodin generointi
 - Latex kirjastojen suosittelu tarpeisiin
 - Kuvien generointi
-- 
+
